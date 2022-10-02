@@ -5,11 +5,11 @@ In this way we create a list of elements, A character key needed to include and 
 
 Q2: What problems / warnings are there with code?
 
-Problem 1: misssing of dependency 'setSelectedIndex' in react hook
+Warning 1: misssing of dependency 'setSelectedIndex' in react hook
 
-Problem 2: setSelectedIndex in useEffect() hook accepts two arguments in it.
+warning 2: setSelectedIndex in useEffect() hook accepts two arguments in it.
 
-Problem 3: There is a wrong fuctionname in useeffect hook we need to change it as well.
+warning 3: There is a wrong fuctionname in useeffect hook we need to change it as well.
 
 
 
